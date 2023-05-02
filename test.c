@@ -2,9 +2,9 @@
 
 int main()
 {
-	for (int i = 0; i < 4; i++)
-	{
-		printf("number: %d\n", i);
-	}
+	int number;
+	scanf("%d", &number);
+	printf("you entered %d\n", number);
+
 	return 0;
 }
