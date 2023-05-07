@@ -6,6 +6,7 @@ int main()
 	scanf("%d", &number);
 	printf("you entered %d\n", number);
 	printf("Done :D\n");
+	printf("literally done :DDD\n");
 
 	return 0;
 }
