@@ -14,3 +14,8 @@ int main()
 
 	return 0;
 }
+
+void myfunc()
+{
+	printf("this is for test\n");
+}
