@@ -1,3 +1,4 @@
+#include <utils.h>
 #include <stdio.h>
 
 int main()
@@ -11,11 +12,7 @@ int main()
 	{
 		printf("%d\n", i);
 	}
+	myfunc();
 
 	return 0;
-}
-
-void myfunc()
-{
-	printf("this is for test\n");
 }
